@@ -1,0 +1,3 @@
+# One Ethereum wallet address per line
+# Example:
+# 0x1234567890123456789012345678901234567890
