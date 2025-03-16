@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> **This repository is deprecated, the lens faucet now requires a Google account**
+
 # Lens Protocol Testnet Faucet Bot
 
 An automated bot for claiming tokens from the Lens Protocol testnet faucet. The bot solves maze challenges and handles Cloudflare Turnstile captchas automatically.
